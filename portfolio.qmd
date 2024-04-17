@@ -1,0 +1,27 @@
+---
+title: "Portfolio"
+toc: true
+---
+
+## Data Science Project *AI impact on Mental Health*
+
+Our reseach group explored the question of impact of using AI Chatbot, and Social Media on Mental Health. Steps we take was: Problem Identification, Data Collection, Preparation, Analysis,Running a simulation with Gen AI and Communicating Results.
+
+- [Overwiev](https://mit-emerging-talent.github.io/2024-group-03-cdsp/)
+- [GitHub Repository](https://github.com/MIT-Emerging-Talent/2024-group-03-cdsp)
+
+
+## Machine Learning Projects
+
+I have made a machinle learning projects, created a student dropout prediction model, and a CNN cards classification model, using TensorFlow.
+
+- [Student Dropout Prediction](https://dropout-predict-2avfrxfgrq-uc.a.run.app/) ([GitHub](https://github.com/tvsirius/ml_zoomcamp_midterm_student_dropout))
+- [Cards Classification](https://cardclass-2avfrxfgrq-lm.a.run.app/) ([GitHub](https://github.com/tvsirius/ml_zoomcamp_project1_cards_classification))
+
+
+## SDLC Educational Project development
+
+Our group have developed the initial stage of the Huddleearn project. This is an educational project aimed at supporting self-education and forming learning and project groups of students with similar mindsets.
+
+- [SDLC documentation](https://drive.google.com/drive/folders/1wY7-KhWwWRT28w64TEFtRgzG3YGToRDV?usp=drive_link)
+- [Video persentation](https://drive.google.com/file/d/1dU9fUNpgypF2okQlSP3cg_S4cQV6WIkn/view?usp=drive_link)
