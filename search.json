@@ -1,75 +1,5 @@
 [
   {
-    "objectID": "tvsirius.github.io/portfolio.html",
-    "href": "tvsirius.github.io/portfolio.html",
-    "title": "Portfolio",
-    "section": "",
-    "text": "Our reseach group explored the question of impact of using AI Chatbot, and Social Media on Mental Health. Steps we take was: Problem Identification, Data Collection, Preparation, Analysis,Running a simulation with Gen AI and Communicating Results.\n\nOverwiev\nGitHub Repository"
-  },
-  {
-    "objectID": "tvsirius.github.io/portfolio.html#data-science-project-ai-impact-on-mental-health",
-    "href": "tvsirius.github.io/portfolio.html#data-science-project-ai-impact-on-mental-health",
-    "title": "Portfolio",
-    "section": "",
-    "text": "Our reseach group explored the question of impact of using AI Chatbot, and Social Media on Mental Health. Steps we take was: Problem Identification, Data Collection, Preparation, Analysis,Running a simulation with Gen AI and Communicating Results.\n\nOverwiev\nGitHub Repository"
-  },
-  {
-    "objectID": "tvsirius.github.io/portfolio.html#machine-learning-projects",
-    "href": "tvsirius.github.io/portfolio.html#machine-learning-projects",
-    "title": "Portfolio",
-    "section": "Machine Learning Projects",
-    "text": "Machine Learning Projects\nI have made a machinle learning projects, created a student dropout prediction model, and a CNN cards classification model, using TensorFlow.\n\nStudent Dropout Prediction (GitHub)\nCards Classification (GitHub)"
-  },
-  {
-    "objectID": "tvsirius.github.io/portfolio.html#sdlc-educational-project-development",
-    "href": "tvsirius.github.io/portfolio.html#sdlc-educational-project-development",
-    "title": "Portfolio",
-    "section": "SDLC Educational Project development",
-    "text": "SDLC Educational Project development\nOur group have developed the initial stage of the Huddleearn project. This is an educational project aimed at supporting self-education and forming learning and project groups of students with similar mindsets.\n\nSDLC documentation\nVideo persentation"
-  },
-  {
-    "objectID": "index.html#links",
-    "href": "index.html#links",
-    "title": "Denys Savytskyi",
-    "section": "Links",
-    "text": "Links\n\nLinkedin\nCV (.pdf)"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Denys Savytskyi",
-    "section": "Contact",
-    "text": "Contact\n\nE-mail\nTelegram"
-  },
-  {
-    "objectID": "certificates.html",
-    "href": "certificates.html",
-    "title": "Certificates",
-    "section": "",
-    "text": "My Certificates\nIT Step Python Developer\nedX MITx Course 6.00.1x: Introduction to Computer Science and Programming Using Python\nedX MITx Course 6.00.2x: Introduction to Computational Thinking and Data Science\nAssociate Google Cloud Engineer Certificate\nDeepLearning.AI Tensorflow Developer\nML Zoomcamp Certificate\nTensorFlow Developer Certificate\n\n\nCurrenly Enrolled\nMIT Emerging Talent\nMIT MicroMasters Program in Statistics and Data Science"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I am a creative, sharp-minded and self motivated professional. My background includes master’s degrees in Computer Systems Engineering and Cinema and Television Art. I had work experience in art, cinema and television before the war touched my country. Participating in volunteer work and providing assistance during the initial months of the war was a transformative event. Reconsidering my life, I fully realized my desire to return to Computer Science, to give my creative achievements a new life and to explore the newborn miracle of Artificial Intelligence.\nFrom that moment I spent more then several years of study in the fields of Software Development, Data Science, Artificial Intelligence, Machine Learning and much more. One of the real breakthroughs was my acceptance to the MIT Emerging Talent program. I am truly grateful to the Emerging Talent Team for my advancement, and for taking me further - to the MIT MicroMasters Program in Statistics and Data Science, I have started this year.\nMy blend of Computer Systems Engineering and Cinema and Television Art master’s degrees, combined with my diverse experience and recent years of study have turned me into an ideal candidate for the roles in today’s rapidly evolving world - where AI and creativity walks hand in hand in the codespace of the future.\nI am ready to leverage emergent technologic innovations, ready to create, ready to transform a creative vision into action."
-  },
-  {
-    "objectID": "education.html#ms-computer-systems-engineering",
-    "href": "education.html#ms-computer-systems-engineering",
-    "title": "Education",
-    "section": "MS, Computer Systems Engineering",
-    "text": "MS, Computer Systems Engineering\nNational Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”"
-  },
-  {
-    "objectID": "education.html#ms-cinema-and-television-art",
-    "href": "education.html#ms-cinema-and-television-art",
-    "title": "Education",
-    "section": "MS, Cinema and Television Art",
-    "text": "MS, Cinema and Television Art\nKyiv National University of Culture and Arts"
-  },
-  {
     "objectID": "portfolio.html#data-science-project-about-ai-impact-on-mental-health",
     "href": "portfolio.html#data-science-project-about-ai-impact-on-mental-health",
     "title": "Portfolio",
@@ -89,5 +19,47 @@
     "title": "Portfolio",
     "section": "SDLC Educational Project development",
     "text": "SDLC Educational Project development\nI played a key role in a the group development of the initial stage of the Huddlearn project. Huddlearn is an educational platform focused on supporting self-education and forming learning and project groups comprised of students with similar mindsets. In this project, I served as the team lead, overseeing task distribution, organizing workflow and communication channels. I actively contributed to the Software Development Life Cycle (SDLC) documentation and UML diagrams, worked on developing the proposed platform structure and prototype, and created the presentation video.\n\nProject documentation\nVideo presentation"
+  },
+  {
+    "objectID": "education.html#ms-computer-systems-engineering",
+    "href": "education.html#ms-computer-systems-engineering",
+    "title": "Education",
+    "section": "MS, Computer Systems Engineering",
+    "text": "MS, Computer Systems Engineering\nNational Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”"
+  },
+  {
+    "objectID": "education.html#ms-cinema-and-television-art",
+    "href": "education.html#ms-cinema-and-television-art",
+    "title": "Education",
+    "section": "MS, Cinema and Television Art",
+    "text": "MS, Cinema and Television Art\nKyiv National University of Culture and Arts"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a creative, sharp-minded and self motivated professional. My background includes master’s degrees in Computer Systems Engineering and Cinema and Television Art. I had work experience in art, cinema and television before the war touched my country. Participating in volunteer work and providing assistance during the initial months of the war was a transformative event. Reconsidering my life, I fully realized my desire to return to Computer Science, to give my creative achievements a new life and to explore the newborn miracle of Artificial Intelligence.\nFrom that moment I spent more then several years of study in the fields of Software Development, Data Science, Artificial Intelligence, Machine Learning and much more. One of the real breakthroughs was my acceptance to the MIT Emerging Talent program. I am truly grateful to the Emerging Talent Team for my advancement, and for taking me further - to the MIT MicroMasters Program in Statistics and Data Science, I have started this year.\nMy blend of Computer Systems Engineering and Cinema and Television Art master’s degrees, combined with my diverse experience and recent years of study have turned me into an ideal candidate for the roles in today’s rapidly evolving world - where AI and creativity walks hand in hand in the codespace of the future.\nI am ready to leverage emergent technological innovations, ready to create, ready to transform a creative vision into action."
+  },
+  {
+    "objectID": "certificates.html",
+    "href": "certificates.html",
+    "title": "Certificates",
+    "section": "",
+    "text": "My Certificates\nIT Step Python Developer\nedX MITx Course 6.00.1x: Introduction to Computer Science and Programming Using Python\nedX MITx Course 6.00.2x: Introduction to Computational Thinking and Data Science\nAssociate Google Cloud Engineer Certificate\nDeepLearning.AI Tensorflow Developer\nML Zoomcamp Certificate\nTensorFlow Developer Certificate\n\n\nCurrently Enrolled\nMIT Emerging Talent\nMIT MicroMasters Program in Statistics and Data Science"
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "Denys Savytskyi",
+    "section": "Links",
+    "text": "Links\n\nLinkedin\nCV (.pdf)"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Denys Savytskyi",
+    "section": "Contact",
+    "text": "Contact\n\nE-mail\nTelegram"
   }
 ]
