@@ -10,3 +10,4 @@ cd tvsirius.github.io
 git add .
 git commit -m "%*"
 git push
+echo commit and push done

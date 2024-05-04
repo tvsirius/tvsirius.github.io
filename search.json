@@ -4,21 +4,21 @@
     "href": "portfolio.html#data-science-project-about-ai-impact-on-mental-health",
     "title": "Portfolio",
     "section": "Data Science Project about AI impact on Mental Health",
-    "text": "Data Science Project about AI impact on Mental Health\nI was deeply involved in a Data Science project investigating the impact of AI chatbots and Social Media on mental health. I worked on the key stages, including Problem Identification, Data Collection, Preparation, Analysis, and Communicating Results. Additionally, I collaborated on project documentation and repository management. I proposed and implemented running a simulation with ChatGPT to generate needed data, which was studied and included in our results.\n\nOverview\nGitHub Repository"
+    "text": "Data Science Project about AI impact on Mental Health\nI was deeply involved in a Data Science project investigating the impact of AI chatbots and Social Media on mental health. I worked on the Problem Identification, Data Collection, Preparation, Analysis, and Communicating Results. Additionally, I contributed to documentation and repository management. I implemented simulation with ChatGPT to generate needed data, studied and analyzed it’s results.\n\nOverview\nGitHub Repository"
   },
   {
     "objectID": "portfolio.html#machine-learning-projects",
     "href": "portfolio.html#machine-learning-projects",
     "title": "Portfolio",
     "section": "Machine Learning Projects",
-    "text": "Machine Learning Projects\nI have completed machine learning projects, including the creation of a student dropout prediction model and a CNN card classification model, using TensorFlow.\n\nStudent Dropout Prediction (GitHub)\nCards Classification (GitHub)"
+    "text": "Machine Learning Projects\nI developed a student dropout prediction model and a card classification model, using convolutional neural networks (CNN) TensorFlow.\n\nStudent Dropout Prediction (GitHub)\nCards Classification (GitHub)"
   },
   {
     "objectID": "portfolio.html#sdlc-educational-project-development",
     "href": "portfolio.html#sdlc-educational-project-development",
     "title": "Portfolio",
     "section": "SDLC Educational Project development",
-    "text": "SDLC Educational Project development\nI played a key role in a the group development of the initial stage of the Huddlearn project. Huddlearn is an educational platform focused on supporting self-education and forming learning and project groups comprised of students with similar mindsets. In this project, I served as the team lead, overseeing task distribution, organizing workflow and communication channels. I actively contributed to the Software Development Life Cycle (SDLC) documentation and UML diagrams, worked on developing the proposed platform structure and prototype, and created the presentation video.\n\nProject documentation\nVideo presentation"
+    "text": "SDLC Educational Project development\nI played a key role in a the group development of the initial stage of the Huddlearn project. It is an educational platform focused on supporting self-education and forming learning and project groups for students with similar mindsets. I served as the team lead, overseeing task distribution, organizing workflow and communication channels. I contributed to the Software Development Life Cycle (SDLC) documentation and UML diagrams, developed the platform structure and prototype, created the presentation video.\n\nProject documentation\nVideo presentation"
   },
   {
     "objectID": "education.html",
