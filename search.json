@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "portfolio.html#compeers.ai",
+    "href": "portfolio.html#compeers.ai",
+    "title": "Portfolio",
+    "section": "Compeers.AI",
+    "text": "Compeers.AI\nCurrently, I am working as a Machine Learning Engineer at Compeers.AI, a company that provides AI-powered tools for the market research. Details are under NDA. You can find more information here."
+  },
+  {
     "objectID": "portfolio.html#data-science-project-about-ai-impact-on-mental-health",
     "href": "portfolio.html#data-science-project-about-ai-impact-on-mental-health",
     "title": "Portfolio",
@@ -25,7 +32,7 @@
     "href": "education.html",
     "title": "Education / Certificates",
     "section": "",
-    "text": "Education\n\nMS, Computer Systems Engineering\nNational Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”\n\n\nMS, Cinema and Television Art\nKyiv National University of Culture and Arts\n\n\n\nCertificates\nMIT Emerging Talent\nedX MITx Course 6.00.1x: Introduction to Computer Science and Programming Using Python\nedX MITx Course 6.00.2x: Introduction to Computational Thinking and Data Science\nedX MITx Course 6.431x: Probability - The Science of Uncertainty and Data\nAssociate Google Cloud Engineer Certificate\nDeepLearning.AI Tensorflow Developer\nIT Step Python Developer\nML Zoomcamp Certificate\nTensorFlow Developer Certificate\n\n\nCurrently Enrolled\nMIT MicroMasters Program in Statistics and Data Science"
+    "text": "Education\n\nMS, Computer Systems Engineering\nNational Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”\n\n\nMS, Cinema and Television Art\nKyiv National University of Culture and Arts\n\n\n\nCertificates\nMIT Emerging Talent\nedX MITx: Introduction to Computer Science and Programming Using Python\nedX MITx: Introduction to Computational Thinking and Data Science\nedX MITx: Probability - The Science of Uncertainty and Data\nedX MITx: Machine Learning with Python-From Linear Models to Deep Learning\nedX MITx: Fundamentals of Statistics\nAssociate Google Cloud Engineer Certificate\nDeepLearning.AI Tensorflow Developer\nIT Step Python Developer\nML Zoomcamp Certificate\nTensorFlow Developer Certificate\n\n\nCurrently Enrolled\nMIT MicroMasters Program in Statistics and Data Science"
   },
   {
     "objectID": "about.html",
